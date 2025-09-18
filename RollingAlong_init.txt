@@ -4,7 +4,7 @@ campaignTrail_temp.election_json = [
         "pk": 12,
         "fields": {
             "year": 1948,
-            "summary": "<p>After four years of centralizing his own power with the intent of never letting it go, President Roosevelt defeated Alf Landon a landslide in what will be the last free and fair election if the president has his way. Yet Fascist Dictator Roosevelt's work in completing what his mentor, Woodrow Wilson, started is not yet complete.</p>\n\n</p> The courts and congress still stand in his way of President Roosevelt and his schemes to transform America from a republic to an autocracy. From Harry Byrd to Charles Evans Hughes, President Roosevelt must overcome his enemies in order to crown himself as King Franklin I of America.",
+            "summary": "<p>After four years of centralizing his own power with no intention of ever letting it go, President Roosevelt defeated Alf Landon in a landslide in what will be the last free and fair election if the president has his way. Yet, Fascist Dictator Roosevelt's work in completing what his mentor, Woodrow Wilson, started is not complete.</p>\n\n</p> The courts and Congress still stand in his way of President Roosevelt and his schemes to transform America from a republic to an autocracy. From Harry Byrd to Charles Evans Hughes, President Roosevelt must overcome his enemies to crown himself as King Franklin I of America.",
             "image_url": "https://preview.redd.it/a-political-cartoon-of-fdr-smoking-the-constitution-1930s-v0-h0a6ag8xzp8c1.png?width=1080&crop=smart&auto=webp&s=12b064ff67d4d4cf7e82c149feb7dfd778324993",
             "winning_electoral_vote_number": 266,
             "advisor_url": "https://cdn.britannica.com/32/134332-050-646C27B1/Franklin-D-Roosevelt-Henry-Wallace-farm-relief-bill-1933.jpg?w=400&h=225&c=crop",
@@ -59,7 +59,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>Vice President Garner was given the nomination back in 1932 as part of a deal to get Roosevelt over the 2/3rds threshold at the convention and kept on in order to keep the party united for the 1936 campaign.</p>\n\n</p> Despite the fact that a sitting vice president has not been elected president in a century, Garner belives that if he's loyal enough and keeps his head down he be elected with his dignity intact, yet his respect for the constitution and the republic has made him a potental enemy of the president. With Roosevelt's power grabs showing no sign of stopping, Garner must choose a side between his boss and the republic itself.",
+            "description_as_running_mate": "<p>Vice President Garner was given the nomination back in 1932 as part of a deal to get Roosevelt over the 2/3rds threshold at the convention and kept on to keep the party united for the 1936 campaign.</p>\n\n</p> Although a sitting vice president has not been elected president in a century, Garner belives that if he's loyal enough and keeps his head down he be elected with his dignity intact, yet his respect for the constitution and the republic has made him a potental enemy of the president. With Roosevelt's power grabs showing no sign of stopping, Garner must choose a side between his boss and the republic itself.",
             "candidate_score": 0,
             "running_mate": true
         }
