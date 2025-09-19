@@ -102,7 +102,7 @@ campaignTrail_temp.running_mate_json = [
     }
 ]
 
-campaignTrail_temp.credits = "Dan Bryan"
+campaignTrail_temp.credits = "The American Liberty League"
 
 campaignTrail_temp.opponents_default_json = [
     {
