@@ -84,7 +84,7 @@ campaignTrail_temp.candidate_json = [
             "electoral_victory_message": "'",
             "electoral_loss_message": "'",
             "no_electoral_majority_message": "'",
-            "description_as_running_mate": "<p>Vice President Garner was given the nomination back in 1932 as part of a deal to get Roosevelt over the 2/3rds threshold at the convention and kept on in order to keep the party united for the 1936 campaign.</p>\n\n</p> Despite the fact that a sitting vice president has not been elected president in a century, Garner believes that if he's loyal enough and keeps his head down, he will be elected with his dignity intact, yet his respect for the Constitution and the republic has made him a potential enemy of the president. With Roosevelt's power grabs showing no sign of stopping, Garner must choose a side between his boss and the republic itself.",
+            "description_as_running_mate": "<p>Vice President Garner was given the nomination back in 1932 as part of a deal to get Roosevelt over the 2/3rds threshold at the convention and kept on in order to keep the party united for the 1936 campaign.</p>\n\n</p> Despite the fact that a sitting vice president has not been elected president in a century, Garner belives that if he's loyal enough and keeps his head down he be elected with his dignity intact, yet his respect for the constitution and the republic has made him a potental enemy of the president. With Roosevelt's power grabs showing no sign of stopping, Garner must choose a side between his boss and the republic itself.",
             "candidate_score": 0,
             "running_mate": true
         }
@@ -134,9 +134,9 @@ campaignTrail_temp.temp_election_list = [
 jet_data = {
     "headerColor": "#000000",
     "windowColor": "#000000",
-    "containerColor": "#000000",
-    "innerWindowColor": "#000000",
-    "bannerImageUrl": "https://media.discordapp.net/attachments/1418604434136502275/1418756304918544396/Capitol_top.png?ex=68cf4746&is=68cdf5c6&hm=2d991dfe14ffce9df4608d4ec10d038913ac3daa5e29f34d84b809afbe3aa458&=&format=webp&quality=lossless&width=1024&height=343",
+    "containerColor": "#000000ff",
+    "innerWindowColor": "#704700",
+    "bannerImageUrl": "https://i.imgur.com/bpHopuY.png",
     "backgroundImageUrl": "https://media.newyorker.com/photos/59097dcaebe912338a378b43/master/pass/Massara-TheJapanese-AmericanArtistWhoWenttotheCampstoHelp_01-1.jpg",
     "endingTextColor": "#000000",
     "customQuote": "",
@@ -157,9 +157,9 @@ document.getElementsByClassName("game_header")[0].style.backgroundColor = nct_st
 
 $("#game_window")[0].style.backgroundColor = nct_stuff.themes[nct_stuff.selectedTheme].coloring_window;
 
-$(".container")[0].style.backgroundColor = "#916440";
+$(".container")[0].style.backgroundColor = "#000000ff";
 
-document.getElementById("header").src = "https://jetsimon.com/public/placeholderbanner.png";
+document.getElementById("header").src = "https://i.imgur.com/bpHopuY.png";
 
 document.body.background = "https://media.newyorker.com/photos/59097dcaebe912338a378b43/master/pass/Massara-TheJapanese-AmericanArtistWhoWenttotheCampstoHelp_01-1.jpg";
 
