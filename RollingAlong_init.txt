@@ -88,6 +88,75 @@ campaignTrail_temp.candidate_json = [
             "candidate_score": 0,
             "running_mate": true
         }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 117,
+        "fields": {
+            "first_name": "Losing",
+            "last_name": "Republicans",
+            "election": 12,
+            "party": "Republicans",
+            "state": "The Brink",
+            "priority": 1,
+            "description": "<p>Put description here</p>",
+            "color_hex": "#ad0202",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins!",
+            "electoral_loss_message": "This guy loses!",
+            "no_electoral_majority_message": "We all win?",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 118,
+        "fields": {
+            "first_name": "Treacherous",
+            "last_name": "Copperheads",
+            "election": 12,
+            "party": "Dixiecrat",
+            "state": "Virginia",
+            "priority": 1,
+            "description": "<p>Put description here</p>",
+            "color_hex": "#f5ee24",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins!",
+            "electoral_loss_message": "This guy loses!",
+            "no_electoral_majority_message": "We all win?",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
+    },
+    {
+        "model": "campaign_trail.candidate",
+        "pk": 119,
+        "fields": {
+            "first_name": "Ungrateful",
+            "last_name": "Socialists",
+            "election": 12,
+            "party": "Socialist",
+            "state": "New York",
+            "priority": 1,
+            "description": "<p>Put description here</p>",
+            "color_hex": "#f56464",
+            "secondary_color_hex": null,
+            "is_active": 0,
+            "image_url": "https://www.jetsimon.com/public/candidateexample.png",
+            "electoral_victory_message": "This guy wins!",
+            "electoral_loss_message": "This guy loses!",
+            "no_electoral_majority_message": "We all win?",
+            "description_as_running_mate": null,
+            "candidate_score": 1,
+            "running_mate": false
+        }
     }
 ]
 
@@ -108,7 +177,10 @@ campaignTrail_temp.opponents_default_json = [
     {
         "election": 12,
         "candidates": [
-            116
+            116,
+            117,
+            118,
+            119
         ]
     }
 ]
@@ -117,7 +189,10 @@ campaignTrail_temp.opponents_weighted_json = [
     {
         "election": 12,
         "candidates": [
-            116
+            116,
+            117,
+            118,
+            119
         ]
     }
 ]
