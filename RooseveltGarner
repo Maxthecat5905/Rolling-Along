@@ -10762,10 +10762,10 @@ campaignTrail_temp.answer_feedback_json = [
         }
     }
 ]
-campaignTrail_temp.candidate_image_url = "https://tse2.mm.bing.net/th/id/OIP.CVB0q6JdcJuXecXKN6CIzgHaGA?rs=1&pid=ImgDetMain&o=7&rm=3";
-campaignTrail_temp.running_mate_image_url = "https://tse1.mm.bing.net/th/id/OIP.FmK7msun5T2cDJNyEF-RbAAAAA?rs=1&pid=ImgDetMain&o=7&rm=3";
-campaignTrail_temp.candidate_last_name = "fdr";
-campaignTrail_temp.running_mate_last_name = "otherguys";
+campaignTrail_temp.candidate_image_url = "https://files.catbox.moe/jlbx6c.png";
+campaignTrail_temp.running_mate_image_url = "https://files.catbox.moe/zl41a2.jpg";
+campaignTrail_temp.candidate_last_name = "Roosevelt";
+campaignTrail_temp.running_mate_last_name = "Garner";
 
 
 campaignTrail_temp.jet_data = [{}
