@@ -57,7 +57,7 @@ campaignTrail_temp.candidate_json = [
             "color_hex": "#100561",
             "secondary_color_hex": "#25308f",
             "is_active": 1,
-            "image_url": "https://files.catbox.moe/jlbx6c.png",
+            "image_url": "https://files.catbox.moe/1ok5il.jpg",
             "electoral_victory_message": "<h3>VICTORY.</h3>",
             "electoral_loss_message": "<h3>DEFEAT.</h3>",
             "no_electoral_majority_message": "<h3>DEADLOCK.</h3>",
