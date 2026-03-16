@@ -37,7 +37,7 @@ campaignTrail_temp.election_json = [
             "has_visits": 1,
             "no_electoral_majority_image": "https://www.jetsimon.com/public/static/images/1960-no-majority-photo.jpg",
             "creator": "Dan Bryan",
-            "display_year": "1940"
+            "display_year": "1937-1940"
         }
     }
 ]
@@ -50,7 +50,7 @@ campaignTrail_temp.candidate_json = [
             "first_name": "Franklin",
             "last_name": "Roosevelt",
             "election": 12,
-            "party": "Democrat",
+            "party": "Fascism",
             "state": "Grandeur",
             "priority": 1,
             "description": "<p>Behind the power and aura in the friendly voice that says my friends on the radio sits a power-hungry man in a loveless marriage who has not stood on his own in almost 20 years. Bound to his wheelchair by Polio, Franklin Roosevelt has nonetheless managed to convince Americans that he stands for them. After his attempts to centralize the economy were struck down by the Supreme Court, Roosevelt managed to defeat Alf Landon thanks to his ability to buy votes with the voters' own tax money and patronage.</p>\n\n</p> Roosevelt must continue his transformation of America into a nation where he and his ilk can rule by decree in what appears to be his final term to most. What Roosevelt cannot tell a soul is his plan to seek a third term. While it is technically legal, no man has ever successfully gotten one; however, Roosevelt sees himself as above all of his predecessors, and he will not be limited by the artificial limits of lesser men.",
@@ -73,7 +73,7 @@ campaignTrail_temp.candidate_json = [
             "first_name": "John",
             "last_name": "Garner",
             "election": 12,
-            "party": "Democrat",
+            "party": "Boll Weevil",
             "state": "Texas",
             "priority": 5,
             "description": "'",
@@ -170,6 +170,14 @@ campaignTrail_temp.running_mate_json = [
         }
     }
 ]
+e.PartyText = "Ideology:";
+
+e.HomeStateText = "State:";
+
+    e.SelectText = "Please select your term:"
+    e.CandidText = "Please select your autocrat:"
+    e.VpText = "Please select your lackey:"
+
 
 campaignTrail_temp.credits = "The American Liberty League"
 
@@ -202,7 +210,7 @@ campaignTrail_temp.temp_election_list = [
         "id": 12,
         "year": 1948,
         "is_premium": 0,
-        "display_year": "1940"
+        "display_year": "1937-1940"
     }
 ]
 
@@ -212,7 +220,7 @@ jet_data = {
     "containerColor": "#000000ff",
     "innerWindowColor": "#704700",
     "bannerImageUrl": "https://i.imgur.com/bpHopuY.png",
-    "backgroundImageUrl": "https://media.newyorker.com/photos/59097dcaebe912338a378b43/master/pass/Massara-TheJapanese-AmericanArtistWhoWenttotheCampstoHelp_01-1.jpg",
+    "backgroundImageUrl": "https://www.bagladyemporium.com/BLU/uploads/Main/court_cartoon.jpg",
     "endingTextColor": "#000000",
     "customQuote": "",
     "gameTitle": "Rolling Along"
@@ -236,7 +244,7 @@ $(".container")[0].style.backgroundColor = "#000000ff";
 
 document.getElementById("header").src = "https://i.imgur.com/bpHopuY.png";
 
-document.body.background = "https://media.newyorker.com/photos/59097dcaebe912338a378b43/master/pass/Massara-TheJapanese-AmericanArtistWhoWenttotheCampstoHelp_01-1.jpg";
+document.body.background = "https://www.bagladyemporium.com/BLU/uploads/Main/court_cartoon.jpg";
 
 document.head.innerHTML += "<style>#results_container {color:#000000;} .inner_window_w_desc {background-color:#704700!important;}</style>";
 
